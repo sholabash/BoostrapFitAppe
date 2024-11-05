@@ -1,0 +1,50 @@
+.container1{
+    background-image: url('../images/banner.png');
+    height: 710px;
+    background-size: cover;
+}
+
+.run{
+    padding-left: 180px;
+    padding-top: 150px;
+    color: white;
+}
+
+.run h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 45px;
+    color: #fd4d5a;
+   
+}
+
+.run h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.run p{
+    width: 650px;
+    font-size: 20px;
+}
+
+.shoe1{
+    padding-top: 50px;
+}
+
+button{
+    width: 150px;
+    padding: 10px;
+    background-color: #fd4d5a;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    border: none;
+
+}
+
+.run .btn2{
+    background-color: white;
+    color: #fd4d5a;
+    margin-left: 50px;
+}
